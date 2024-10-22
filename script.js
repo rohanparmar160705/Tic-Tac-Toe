@@ -1,4 +1,7 @@
 // Final Code on Date - 22/10/2024
+// branch - newbranch
+
+// This is the changes made on "newfeature" branch on date - 22/10/2024
 
 // Selects all elements with the class 'cell' (the game board squares) and stores them in the 'cells' variable
 const cells = document.querySelectorAll('.cell');

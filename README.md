@@ -3,6 +3,9 @@
 This is a simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 Final Code on Date - 22/10/2024
 
+This is the changes made on "newfeature" branch on date - 22/10/2024
+branch - newbranch
+
 ## Features
 - Play against another player
 - Responsive layout
